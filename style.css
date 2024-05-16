@@ -1,3 +1,28 @@
-.ui{
-    background: red;
+@import url('https://fonts.googleapis.com/css2?family=Sedan:ital@0;1&display=swap');
+
+body{
+     background-image: url(https://i.pinimg.com/564x/d9/c0/79/d9c079d2fd63ae229170fa61a0232d3c.jpg);    
+ color: rgb(235, 217, 217);
 }
+#aa{
+    font-family: "Sedan", serif;
+    text-align: center;
+    text-shadow: 5px 5px 4px black, 7px 7px 5px rgb(112, 58, 58) , -5px -5px 4px black, -7px -7px 5px rgb(105, 54, 54) ;
+    font-size: 70px;
+    color: rgb(206, 203, 203);
+    font-style: italic;
+    letter-spacing: 7px;
+
+}
+#zz{
+    
+
+}
+table{
+    border-radius: 30px;
+    font-size: 100px;
+    padding: 10px;
+    
+
+}
+
